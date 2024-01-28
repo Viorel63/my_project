@@ -1,6 +1,5 @@
 def convert_to_uppercase(input_str):
     return input_str.upper()
-    docstring
 def convert_to_uppercase(input_str):
     """
     Converts the input string to uppercase.
